@@ -45,8 +45,6 @@ public class MainActivity extends AppCompatActivity {
         JSONObject json = new JSONObject();
         try {
 
-            // sonu token :   cnQCTTb75vQ:APA91bEmvVBmTQbdkgPMNgNRW8ui2Tj6aC-qPLY1NMC9QaVbGcMRmfZX_3Umw8cTU_IXg_7fOo-mcjRxe9Rx6ws2iZ6V4CHXRAHdtSLQG1EDMzPiKEYQkbqp2WHM_B71BbtOCYPIL5qn
-            //dvFTrKBobPc:APA91bHCxsmOyJZHJ53J0na1_KU1ZyCmDzkPwNZqugMwgU37XwJcN0P2017MLQiBUh14M959h_zWQnIuu_Ejejrpy66k3mVDzSIhLe_2qnCvnHXGMJ_vF3rcGlPgS4LHFs1OoExu-1i_
 //            json.put("to","/topics/"+"news");
             json.put("to","dvFTrKBobPc:APA91bHCxsmOyJZHJ53J0na1" +
                     "_KU1ZyCmDzkPwNZqugMwgU37XwJcN0P2017MLQiBUh14M959h_zWQnIuu_E" +
